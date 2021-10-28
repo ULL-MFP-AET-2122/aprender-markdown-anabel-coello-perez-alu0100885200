@@ -4,5 +4,7 @@
 ### *Universidad de La Laguna*
 <span style="color:green">**Intereses profesionales: Cambio Climático, Eficiencia del Agua, Cooperación Internacional, Agroecología, Educación**.
 
-![](https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975669_1529650765_sumario_normal.jpg)
+<img 
+     width="50%"
+     src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975669_1529650765_sumario_normal.jpg" />
 
