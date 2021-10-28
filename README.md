@@ -7,7 +7,7 @@
 <span style="color:green"> **Intereses Profesionales**
 <p> 
 <img 
-width="20%"
+width="25%"
 src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975669_1529650765_sumario_normal.jpg" align="right"> 
 
 * <span style="color:green">Cambio Climático :warning::globe_with_meridians:        
