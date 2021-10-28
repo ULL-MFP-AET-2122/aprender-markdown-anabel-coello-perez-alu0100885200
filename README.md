@@ -2,9 +2,20 @@
 # Anabel Coello Pérez
 ## Graduada en Ingeniería Agrícola y del Medio Rural
 ### *Universidad de La Laguna*
-<span style="color:green">**Intereses profesionales: Cambio Climático, Eficiencia del Agua, Cooperación Internacional, Agroecología, Educación**.
 
+<span style="color:green"> **Intereses Profesionales**
+<p> 
 <img 
-     width="50%"
-     src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975669_1529650765_sumario_normal.jpg" />
+width="40%"
+src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975669_1529650765_sumario_normal.jpg" align="right"> 
+
+* <span style="color:green">Cambio Climático         
+* <span style="color:green">Hidrología
+* <span style="color:green">Cooperación Internacional
+* <span style="color:green">Agroecología
+* <span style="color:green">Poco a poco por la Educación
+</p>
+  
+
+
 
