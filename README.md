@@ -51,10 +51,6 @@ Pincha aquí: [master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-
 <br />
 
 **Fragmento de código inline**
-<p>
-  El código inline que voy a usar hará la siguiente frase con la letra más pequeña. <small> Esta es la frase con el código. </small>
-</p>
-
 
 <p>
 En este otro fragmento voy a escribir la fórmula molecular del agua 
@@ -63,13 +59,8 @@ H<sub>2</sub>O, y la del metano CH<sub>4</sub>, gas originado por la descomposic
 
 <p>Y por último:</p>
 
-<hr>
-
-<p>Estoy <mark>subrayando</mark> algunas <mark>palabras</mark> importantes.</p>
+<p><samp>Estoy cambiando la letra con un código inline.</samp></p>
 <br />
-
-
-
 
 
 **Fragmento de código coloreado** :art:
