@@ -68,6 +68,13 @@ H<sub>2</sub>O, y la del metano CH<sub>4</sub>, gas originado por la descomposic
 <p>Estoy <mark>subrayando</mark> algunas <mark>palabras</mark> importantes.</p>
 <br />
 
+<label for="story">Tell us your story:</label>
+
+<textarea id="story" name="story"
+          rows="5" cols="33">
+It was a dark and stormy night...
+</textarea>
+
 **Fragmento de código coloreado** :art:
 <br />
 
