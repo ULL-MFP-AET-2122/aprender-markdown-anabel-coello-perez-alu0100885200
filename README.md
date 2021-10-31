@@ -52,8 +52,9 @@ Pincha aquí: [master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-
 
 **Fragmento de código inline**
 <p>
-  El código inline que voy a usar hará la siguiente frase con la letra más grande. <big> Esta es la frase con el código. </big>
+  El código inline que voy a usar hará la siguiente frase con la letra más pequeña. <small> Esta es la frase con el código. </small>
 </p>
+
 
 
 <p>
@@ -68,12 +69,9 @@ H<sub>2</sub>O, y la del metano CH<sub>4</sub>, gas originado por la descomposic
 <p>Estoy <mark>subrayando</mark> algunas <mark>palabras</mark> importantes.</p>
 <br />
 
-<label for="story">Tell us your story:</label>
 
-<textarea id="story" name="story"
-          rows="5" cols="33">
-It was a dark and stormy night...
-</textarea>
+
+
 
 **Fragmento de código coloreado** :art:
 <br />
