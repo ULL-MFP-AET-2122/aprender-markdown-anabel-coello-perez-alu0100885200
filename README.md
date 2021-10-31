@@ -38,9 +38,13 @@ src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975
 Mi experiencia en educación ha sido como voluntaria, impartiendo clases de español en Inmigración.
 
 <blockquote cite="https://www.mundifrases.com/frases-de/abdul-baha/#:~:text=%E2%80%9CNo%20permit%C3%A1is%20que%20la%20diferencia,y%20rivalidad%20en%20vuestro%20coraz%C3%B3n.">
-"La diversidad en la familia humana debería ser causa de amor y armonía, como lo es en la música donde diferentes notas se funden logrando un acorde perfecto".(Abdu'l Bahá)"
+"La diversidad en la familia humana debería ser causa de amor y armonía, como lo es en la música donde diferentes notas se funden logrando un acorde perfecto". (Abdu'l Bahá)
 </blockquote>
 <br />
 
 <span style="color:red"> **¡Pulsa en la siguiente imagen!** Homenaje a Ismael Lô, Declaración Derechos Humanos, Paris.
 [![Alt text](https://i.pinimg.com/236x/ed/37/cf/ed37cf7817c3c8b240d1b95ddd5983d9--search.jpg)](https://www.youtube.com/watch?v=Bu-pRFmY_Pk)
+
+**Mi experiencia en el Máster**
+
+Pincha aquí: 
