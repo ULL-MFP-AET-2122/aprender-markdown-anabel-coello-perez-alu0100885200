@@ -48,3 +48,10 @@ Mi experiencia en educación ha sido como voluntaria, impartiendo clases de espa
 **Mi experiencia en el Máster**
 
 Pincha aquí: [master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-anabel-coello-perez-alu0100885200/blob/397da01585adb759b96f7a61ff1f04fdec5ea654/m%C3%A1ster.md)
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
