@@ -28,6 +28,8 @@ src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975
 
 <br />
 
+***"La diversidad en la familia humana debería ser causa de amor y armonía, como lo es en la música donde diferentes notas se funden logrando un acorde perfecto".*** (Abdu'l Bahá)"
+<br />
 
 <span style="color:red"> **¡Pulsa en la siguiente imagen!**
 [![Alt text](https://i.pinimg.com/236x/ed/37/cf/ed37cf7817c3c8b240d1b95ddd5983d9--search.jpg)](https://www.youtube.com/watch?v=Bu-pRFmY_Pk)
