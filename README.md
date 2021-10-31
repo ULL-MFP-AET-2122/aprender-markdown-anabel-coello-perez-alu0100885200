@@ -53,7 +53,7 @@ Pincha aquí: [master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-
 **Fragmento de código inline**
 
 <p>
-En este otro fragmento voy a escribir la fórmula molecular del agua 
+En este fragmento voy a escribir la fórmula molecular del agua 
 H<sub>2</sub>O, y la del metano CH<sub>4</sub>, gas originado por la descomposición de la materia orgánica. Aquí he usado un código para agregar subíndices. 
 </p>
 
