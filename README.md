@@ -33,5 +33,5 @@ src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975
 
 <br />
 
-<span style="color:red"> **¡Pulsa en la siguiente imagen!**
+<span style="color:red"> **¡Pulsa en la siguiente imagen!** Homenaje a Ismael Lô, Declaración Derechos Humanos, Paris.
 [![Alt text](https://i.pinimg.com/236x/ed/37/cf/ed37cf7817c3c8b240d1b95ddd5983d9--search.jpg)](https://www.youtube.com/watch?v=Bu-pRFmY_Pk)
