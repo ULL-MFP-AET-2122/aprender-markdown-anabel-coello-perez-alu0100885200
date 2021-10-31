@@ -27,10 +27,19 @@ src="https://ep01.epimg.net/elpais/imagenes/2018/06/21/paco_nadal/1529603610_975
 |2019-2020 | Cabildo Insular de Tenerife| Proyecto Cambio Climático: Eficiencia de Riego (Investigación y Asesoramiento)
 
 <br />
+
+**Conoce un poco mi trabajo**
+ https://www.youtube.com/watch?v=uzhbnTPnTtI
+<br />
+
+
+**Experiencia en Educación**
+
+Mi experiencia en educación ha sido como voluntaria, impartiendo clases de español en Inmigración.
+
 <blockquote cite="https://www.mundifrases.com/frases-de/abdul-baha/#:~:text=%E2%80%9CNo%20permit%C3%A1is%20que%20la%20diferencia,y%20rivalidad%20en%20vuestro%20coraz%C3%B3n.">
 "La diversidad en la familia humana debería ser causa de amor y armonía, como lo es en la música donde diferentes notas se funden logrando un acorde perfecto".(Abdu'l Bahá)"
 </blockquote>
-
 <br />
 
 <span style="color:red"> **¡Pulsa en la siguiente imagen!** Homenaje a Ismael Lô, Declaración Derechos Humanos, Paris.
