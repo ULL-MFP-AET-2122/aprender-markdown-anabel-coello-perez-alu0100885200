@@ -48,6 +48,28 @@ Mi experiencia en educación ha sido como voluntaria, impartiendo clases de espa
 **Mi experiencia en el Máster**
 
 Pincha aquí: [master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-anabel-coello-perez-alu0100885200/blob/397da01585adb759b96f7a61ff1f04fdec5ea654/m%C3%A1ster.md)
+<br />
+
+**Fragmento de código inline**
+<p>
+  El código inline que voy a usar hará la siguiente frase con la letra más grande. <big> Esta es la frase con el código. </big>
+</p>
+
+
+<p>
+En este otro fragmento voy a escribir la fórmula molecular del agua 
+H<sub>2</sub>O, y la del metano CH<sub>4</sub>, gas originado por la descomposición de la materia orgánica 
+</p>
+
+<p>Y por último:</p>
+
+<hr>
+
+<p>Estoy <mark>subrayando</mark> algunas <mark>palabras</mark> importantes.</p>
+<br />
+
+**Fragmento de código coloreado** :art:
+<br />
 
 ```javascript
 function fancyAlert(arg) {
